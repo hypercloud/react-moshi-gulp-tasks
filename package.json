@@ -2,7 +2,7 @@
   "name": "react-moshi-gulp-tasks",
   "version": "0.0.1",
   "description": "",
-  "main": "index",
+  "main": "lib/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
