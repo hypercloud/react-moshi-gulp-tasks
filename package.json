@@ -1,0 +1,39 @@
+{
+  "name": "react-moshi-gulp-tasks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypercloud/react-moshi-gulp-tasks.git"
+  },
+  "keywords": [
+    "Schema.org",
+    "JSON-LD",
+    "RDFa",
+    "Microdata",
+    "Structured-data"
+  ],
+  "author": "HyperCloud Studio <info@nodeunify.com>",
+  "contributors": [
+    "Junxiang Wei",
+    "Zengliang He"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hypercloud/react-moshi-gulp-tasks/issues"
+  },
+  "homepage": "https://github.com/hypercloud/react-moshi-gulp-tasks#readme",
+  "dependencies": {
+    "browser-sync": "^2.11.0",
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "babel-preset-es2015": "^6.3.13",
+    "eslint": "^1.10.3"
+  }
+}
